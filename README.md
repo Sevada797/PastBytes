@@ -1,2 +1,2 @@
 # PastBytes
-Monitor websites and their byte changes during time
+Monitor website endpoints by their byte changes during time ⌛️🥶
